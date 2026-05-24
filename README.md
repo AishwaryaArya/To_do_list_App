@@ -1,4 +1,4 @@
-# Simple Todo List App
+# Todo List App
 
 A simple and responsive Todo List web application built using HTML, CSS, and JavaScript.  
 This project allows users to add, edit, delete, and manage daily tasks with data stored in the browser using Local Storage.
